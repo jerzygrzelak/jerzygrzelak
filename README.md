@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋 My name is Jerzy Grzelak. I'm a Frontend Developer and a Coding Trainer.
 
 <!--
 **jerzygrzelak/jerzygrzelak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
