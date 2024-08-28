@@ -32,4 +32,4 @@
 <img src="icons/xd.svg" width="50px" height="50px" />
 
 --- 
-### Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jerzy-grzelak/).
+### Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jerzy-grzelak/)!
