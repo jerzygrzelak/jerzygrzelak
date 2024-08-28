@@ -27,6 +27,7 @@
 <img src="icons/gitlab.svg" width="50px" height="50px" />
 <img src="icons/git.svg" width="50px" height="50px" />
 <img src="icons/bitbucket.svg" width="50px" height="50px" />
+<img src="icons/jira.svg" width="50px" height="50px" />
 <img src="icons/swagger.svg" width="50px" height="50px" />
 <img src="icons/figma.svg" width="50px" height="50px" />
 <img src="icons/xd.svg" width="50px" height="50px" />
