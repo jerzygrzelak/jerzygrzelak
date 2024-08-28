@@ -1,4 +1,6 @@
-## Hi👋 My name is Jerzy Grzelak. I'm a Frontend Developer and a Coding Trainer.
+## Hi👋 I'm Jerzy Grzelak, a Frontend Developer and a Coding Trainer.
+
+I have almost 3 years of commercial experience in Angular ecosystem and UX design
 
 <!--
 **jerzygrzelak/jerzygrzelak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
