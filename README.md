@@ -3,7 +3,7 @@
 I have almost 3 years of commercial experience in Angular ecosystem and UX design.
 
 [![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,html,css,figma,xd)](https://skillicons.dev)
-
+![screenshot](angular.svg)
 <!--
 **jerzygrzelak/jerzygrzelak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
