@@ -1,7 +1,8 @@
 ## Hi👋 I'm Jerzy Grzelak, a Frontend Developer and a Coding Trainer.
 
+### I find a great joy in building usable, aesthetic and responsive frontend apps. I'm no stranger to UX and UI design, recognizing user needs with empathy is a crucial part of the development process. Additionally, I have a keen interest in data, statistics, and visualizations.
 
-Technologies I have experience with:
+**Technologies I have experience with:**
 <br>
 <img src="icons/angular.svg" title="Angular" width="50px" height="50px" />
 <img src="icons/rxjs.svg" width="50px" height="50px" />
@@ -12,8 +13,10 @@ Technologies I have experience with:
 <img src="icons/html.svg" width="50px" height="50px" />
 <img src="icons/next.svg" width="50px" height="50px" />
 <img src="icons/react.svg" width="50px" height="50px" />
+<img src="icons/python.svg" width="50px" height="50px" />
+<br>
 
-Tools I have experience with:
+**Tools I have experience with:**
 <br>
 <img src="icons/docker.svg" width="50px" height="50px" />
 <img src="icons/jenkins.svg" width="50px" height="50px" />
