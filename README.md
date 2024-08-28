@@ -1,4 +1,4 @@
-## Hi👋 I'm Jerzy Grzelak, a Frontend Developer and a Coding Trainer.
+### Hi👋 I'm Jerzy Grzelak, a Frontend Developer and a Coding Trainer.
 
 ---
 
