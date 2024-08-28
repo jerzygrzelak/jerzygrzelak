@@ -1,6 +1,10 @@
-## Hi👋 I'm Jerzy Grzelak, a Frontend Developer and a Coding Trainer.
+### Hi👋 I'm Jerzy Grzelak, a Frontend Developer and a Coding Trainer.
 
-### I find a great joy in building usable, aesthetic and responsive frontend apps. I'm no stranger to UX and UI design, recognizing user needs with empathy is a crucial part of the development process. Additionally, I have a keen interest in data, statistics, and visualizations.
+---
+
+#### I find a great joy in building usable, aesthetic and responsive frontend apps. I'm no stranger to UX and UI design, recognizing user needs with empathy is a crucial part of the development process. Additionally, I have a keen interest in data, statistics, and visualizations.
+
+---
 
 **Technologies I have experience with:**
 <br>
