@@ -1,9 +1,9 @@
 ## Hi👋 I'm Jerzy Grzelak, a Frontend Developer and a Coding Trainer.
 
-I have almost 3 years of commercial experience in Angular ecosystem and UX design.
-
-[![My Skills](https://skillicons.dev/icons?i=angular,react,ts,js,html,css,figma,xd)](https://skillicons.dev)
-![screenshot](angular.svg)
+Technologies & Tools I have commercial experience with:
+<br>
+<img src="icons/angular.svg" width="60px" height="60px" />
+<img src="icons/React-icon (1).svg" width="60px" height="60px" />
 <!--
 **jerzygrzelak/jerzygrzelak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
