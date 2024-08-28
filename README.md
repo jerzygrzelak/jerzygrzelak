@@ -2,8 +2,9 @@
 
 Technologies & Tools I have commercial experience with:
 <br>
-<img src="icons/angular.svg" width="60px" height="60px" />
-<img src="icons/React-icon (1).svg" width="60px" height="60px" />
+<img src="icons/skill-angular.svg" width="50px" height="50px" />
+<img src="icons/rxjs.svg" width="50px" height="50px" />
+<img src="icons/skill-react.svg" width="50px" height="50px" />
 <!--
 **jerzygrzelak/jerzygrzelak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
