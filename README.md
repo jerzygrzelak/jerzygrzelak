@@ -2,7 +2,7 @@
 
 Technologies & Tools I have commercial experience with:
 <br>
-<img src="icons/skill-angular.svg" width="50px" height="50px" />
+<img src="icons/skill-angular.svg" title="Angular" width="50px" height="50px" />
 <img src="icons/rxjs.svg" width="50px" height="50px" />
 <img src="icons/skill-react.svg" width="50px" height="50px" />
 <!--
