@@ -2,7 +2,7 @@
 
 ---
 
-### I find a great joy in building usable, aesthetic and responsive frontend apps. I'm no stranger to UX and UI design, recognizing user needs with empathy is a crucial part of the development process. Additionally, I have a keen interest in data, statistics, and visualizations.
+### I find a great joy in building usable, aesthetic and responsive frontend apps that solve actual problems. I'm no stranger to UX and UI design - because recognizing user needs with empathy is a crucial part of the development process. Additionally, I have a keen interest in data, statistics, and visualizations.
 
 ---
 
