@@ -1,10 +1,28 @@
 ## Hi👋 I'm Jerzy Grzelak, a Frontend Developer and a Coding Trainer.
 
-Technologies & Tools I have commercial experience with:
+
+Technologies I have experience with:
 <br>
-<img src="icons/skill-angular.svg" title="Angular" width="50px" height="50px" />
+<img src="icons/angular.svg" title="Angular" width="50px" height="50px" />
 <img src="icons/rxjs.svg" width="50px" height="50px" />
-<img src="icons/skill-react.svg" width="50px" height="50px" />
+<img src="icons/primeng.svg" width="50px" height="50px" />
+<img src="icons/js.svg" width="50px" height="50px" />
+<img src="icons/ts.svg" width="50px" height="50px" />
+<img src="icons/css.svg" width="50px" height="50px" />
+<img src="icons/html.svg" width="50px" height="50px" />
+<img src="icons/next.svg" width="50px" height="50px" />
+<img src="icons/react.svg" width="50px" height="50px" />
+
+Tools I have experience with:
+<br>
+<img src="icons/docker.svg" width="50px" height="50px" />
+<img src="icons/jenkins.svg" width="50px" height="50px" />
+<img src="icons/gitlab.svg" width="50px" height="50px" />
+<img src="icons/git.svg" width="50px" height="50px" />
+<img src="icons/bitbucket.svg" width="50px" height="50px" />
+<img src="icons/swagger.svg" width="50px" height="50px" />
+<img src="icons/figma.svg" width="50px" height="50px" />
+<img src="icons/xd.svg" width="50px" height="50px" />
 <!--
 **jerzygrzelak/jerzygrzelak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
