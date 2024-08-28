@@ -2,7 +2,7 @@
 
 ---
 
-### I find a great joy in building usable, aesthetic and responsive frontend apps that solve actual problems. I'm no stranger to UX and UI design - because recognizing user needs with empathy is a crucial part of the development process. Additionally, I like to play around with data, statistics, and visualizations.
+### I find a great joy in building user-friendly and aesthetic frontend applications that address real-world problems. My expertise in UX and UI, combined with programming skills, allows me to approach the development process holistically. I also enjoy working with data, statistics, and visualizations to enhance my projects.
 
 ---
 
@@ -32,4 +32,4 @@
 <img src="icons/xd.svg" width="50px" height="50px" />
 
 --- 
-### Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jerzy-grzelak/).
+### Feel free to connect on [LinkedIn](https://www.linkedin.com/in/jerzy-grzelak/)!
