@@ -8,7 +8,7 @@
 
 **Technologies I have experience with:**
 <br>
-<a href="https://angular.dev">
+<a href="https://angular.dev" style="color: black; text-decoration: underline;text-decoration-style: dotted;">
   <img src="icons/angular.svg" title="Angular" width="50px" height="50px" />
 </a>
 <a href="https://rxjs.dev">
