@@ -8,7 +8,7 @@
 
 **Technologies I have experience with:**
 <br>
-<img src="icons/angular.svg" title="Angular" width="50px" height="50px" />
+<a href="https://angular.dev"><img src="icons/angular.svg" title="Angular" width="50px" height="50px" /></a>
 <img src="icons/rxjs.svg" width="50px" height="50px" />
 <img src="icons/primeng.svg" width="50px" height="50px" />
 <img src="icons/js.svg" width="50px" height="50px" />
