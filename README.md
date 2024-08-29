@@ -13,10 +13,12 @@
 [<img src="icons/primeng.svg" title="PrimeNG" width="50px" height="50px" />](https://primeng.org)
 [<img src="icons/js.svg" title="JavaScript" width="50px" height="50px" />](https://developer.mozilla.org/en-US/docs/Web/JavaScrip)
 [<img src="icons/ts.svg" title="TypeScript" width="50px" height="50px" />](https://www.typescriptlang.org)
-[<img src="icons/css.svg" title="CSS" width="50px" height="50px" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img src="icons/html.svg" title="HTML" width="50px" height="50px" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[<img src="icons/css.svg" title="CSS" width="50px" height="50px" />](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[<img src="icons/tailwind.svg" title="Tailwind" width="50px" height="50px" />](https://tailwindcss.com)
 [<img src="icons/next.svg" title="Next.js" width="50px" height="50px" />](https://nextjs.org)
 [<img src="icons/react.svg" title="React" width="50px" height="50px" />](https://react.dev)
+[<img src="icons/redux.svg" title="Redux" width="50px" height="50px" />](https://redux.js.org)
 [<img src="icons/python.svg" title="Python" width="50px" height="50px" />](https://www.python.org)
 <br>
 
