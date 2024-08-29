@@ -11,6 +11,7 @@
 [<img src="icons/angular.svg" title="Angular" width="50px" height="50px" />](https://angular.dev)
 [<img src="icons/rxjs.svg" title="RxJs" width="50px" height="50px" />](https://rxjs.dev)
 [<img src="icons/primeng.svg" title="PrimeNG" width="50px" height="50px" />](https://primeng.org)
+[<img src="icons/material.svg" title="Google Material Design" width="50px" height="50px" />](https://m3.material.io)
 [<img src="icons/js.svg" title="JavaScript" width="50px" height="50px" />](https://developer.mozilla.org/en-US/docs/Web/JavaScrip)
 [<img src="icons/ts.svg" title="TypeScript" width="50px" height="50px" />](https://www.typescriptlang.org)
 [<img src="icons/html.svg" title="HTML" width="50px" height="50px" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
